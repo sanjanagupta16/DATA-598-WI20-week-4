@@ -85,7 +85,6 @@ viz_density(starwars, mass)
 ```
 
 
-
 ```{r starwars-img, fig.align='center', cache=TRUE}
 #trying the here package
 knitr::include_graphics(here("R-Markdown-Starwars", "R-Markdown-Starwars_files", "figure-html", "baby-yoda.jpeg"))
